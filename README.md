@@ -1,62 +1,27 @@
-# Hi there! 👋 I'm Areen Mangesh Deshpande
+<h1 align="center">Hi 👋, I'm Areen Mangesh Deshpande</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-## 👀 About Me
-- I'm passionate about **AI**, **machine learning**, **automation**, and **financial technologies**.
-- I love solving problems, especially in **competitive programming** and **data-driven projects**.
-- I'm currently exploring **deepfake detection using deep learning** and **stock movement prediction**.
-- I'm excited about building tools and systems that simplify financial management for everyday users.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=areendeshpande&label=Profile%20views&color=0e75b6&style=flat" alt="areendeshpande" /> </p>
 
-## 🌱 Currently Learning
-- Advanced **machine learning models** for better predictions.
-- **Automation workflows** using tools like **n8n**, **Selenium**, and **GeckoDriver**.
-- Exploring APIs for tools like **Spaceship** and **Open Banking APIs (Yodlee)**.
-- Creating robust **data pipelines** for scraping and sentiment analysis (e.g., using **PRAW for Reddit**).
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=areendeshpande" alt="areendeshpande" /></a> </p>
 
-## 💼 Projects
-### 1. AI-Driven Financial Assistant
-- Helps users set, track, and achieve financial goals.
-- Includes a **chatbot** for tailored advice on budgeting, saving, and investing.
-- Features **spending monitoring**, **risk assessment**, and **investment guidance**.
+- 🌱 I’m currently learning **Spring Framework**
 
-### 2. Stock Movement Predictor
-- Scrapes data and performs **sentiment analysis** to predict stock trends.
-- Utilizes **Reddit sentiment data** to track stock rise and fall.
+- 📫 How to reach me **areendeshpande@gmail.com**
 
-### 3. Automation Workflows
-- **Spaceship Workflow:** Automated signup, domain purchase, and checkout.
-- **Weather Notification Workflow:** Sends updates using **n8n**.
-- **Pizza Ordering Automation:** Fully automated pizza ordering system.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/areen deshpande" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="areen deshpande" height="30" width="40" /></a>
+<a href="https://instagram.com/areen2503" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="areen2503" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/mvaa2503" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mvaa2503" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/areen_2503" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="areen_2503" height="30" width="40" /></a>
+</p>
 
-### 4. Deepfake Detection
-- Using **deep learning models** to identify manipulated content.
-- Topic of my recent seminar and ongoing research.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-## 💞️ Looking to Collaborate On
-- Machine Learning and AI-driven projects.
-- Automation workflows for startups.
-- Financial technology solutions, especially involving **Open Banking**.
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=areendeshpande&show_icons=true&locale=en&layout=compact" alt="areendeshpande" /></p>
 
-## 📫 How to Reach Me
-- **Email:** areendeshpande@gmail.com  
-- **Phone:** +91 9892253663  
-- **LinkedIn:** [Areen Deshpande](https://linkedin.com/in/areendeshpande)  
-- **GitHub:** [AreenDeshpande](https://github.com/AreenDeshpande)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=areendeshpande&show_icons=true&locale=en" alt="areendeshpande" /></p>
 
-## 😄 Pronouns
-- He/Him
-
-## ⚡ Fun Facts
-- I was part of the **organizing and design team** for my college fest, 'Addiction'.
-- I enjoy **competitive programming** and solving real-world challenges with code.
-- I'm enthusiastic about startups, particularly in **automation** and **cold emailing markets**.
-- I believe that automation and AI have the power to transform everyday workflows and create immense value.
-
----
-### 💻 Tech Stack
-- **Languages:** Python, C++, JavaScript, SQL
-- **Frameworks & Tools:** Selenium, n8n, TensorFlow, PyTorch
-- **APIs & Services:** Yodlee (Open Banking), Spaceship API
-- **Database Management:** MySQL, MongoDB
-
----
-_✨ Thanks for stopping by my profile! Let’s build something amazing together!_
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=areendeshpande&" alt="areendeshpande" /></p>
