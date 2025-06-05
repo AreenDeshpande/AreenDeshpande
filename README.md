@@ -2,7 +2,7 @@
   <img height="384" src="https://i.pinimg.com/originals/49/6e/a0/496ea00c1911bebf770885ea5445bce3.gif"  />
 </div>
 <h1 align="center">Hi 👋, I'm Areen Mangesh Deshpande</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate AI / ML Developer and Full Stack Developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=areendeshpande" alt="areendeshpande" /></a> </p>
 
