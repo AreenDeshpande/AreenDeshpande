@@ -71,6 +71,7 @@
 ---
 
 <h3 align="center">📊 GitHub Stats</h3>
+<img src="https://raw.githubusercontent.com/mmphego/mmphego/master/profile-summary-card-output/default/0-profile-details.svg" alt="github stats"></br>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=areendeshpande&show_icons=true&theme=radical" alt="GitHub Stats"/>
