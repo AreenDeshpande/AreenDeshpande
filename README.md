@@ -10,8 +10,7 @@
 </p>
 
 ---
-
-### 🚀 About Me
+<h3 align="center">🚀 About Me</h3>
 
 - 🌱 Currently exploring **Agentic AI**, focusing on how intelligent agents can learn and collaborate autonomously.  
 - 🧠 Enthusiastic about **Data Structures & Algorithms (DSA)** — I enjoy solving complex problems and participating in coding contests to sharpen my logic and efficiency.  
