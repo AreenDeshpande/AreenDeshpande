@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2diY25odDczdWV3azNnMTYyb3h5MmM4aWRpbTN4MzVzcHMzMW4wYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xThuWu82QD3pj4wvEQ/giphy.gif" width="150" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Areen Mangesh Deshpande</h1>
 <h3 align="center">A Passionate AI/ML Enthusiast & Full Stack Developer</h3>
