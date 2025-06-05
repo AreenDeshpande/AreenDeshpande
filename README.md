@@ -1,4 +1,4 @@
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=tirthraj07&label=Profile%20views&color=0e75b6&style=flat" alt="tirthraj07" /> </p>
 <h1 align="center">Hi 👋, I'm Areen Mangesh Deshpande</h1>
 <h3 align="center">A Passionate AI/ML Enthusiast & Full Stack Developer</h3>
 
