@@ -3,11 +3,9 @@
 <h3 align="center">A Passionate AI/ML Enthusiast & Full Stack Developer</h3>
 
 <p align="center">
+ 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=areendeshpande&theme=radical&no-frame=true&column=6&margin-w=15&margin-h=15" alt="Trophies" />
-</p>
-
+    <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&rank=?,-?" alt="Trophies" />
   </a>
 </p>
 
