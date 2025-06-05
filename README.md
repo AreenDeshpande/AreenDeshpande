@@ -27,16 +27,16 @@
 <h3 align="center">🌐 Connect with me</h3>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/areen-deshpande-3b1107291/" target="_blank" style="display: inline-block; margin: 0 15px;">
+  <a href="https://www.linkedin.com/in/areen-deshpande-3b1107291/" target="_blank" width="52" height="40">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" />
   </a>
-  <a href="https://www.instagram.com/areen2503/" target="_blank" style="display: inline-block; margin: 0 15px;">
+  <a href="https://www.instagram.com/areen2503/" target="_blank" width="52" height="40">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" />
   </a>
-  <a href="https://x.com/AreenDeshpande" target="_blank" style="display: inline-block; margin: 0 15px;">
+  <a href="https://x.com/AreenDeshpande" target="_blank" width="52" height="40">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" alt="Twitter" width="40" />
   </a>
-  <a href="https://leetcode.com/u/Areen_2503/" target="_blank" style="display: inline-block; margin: 0 15px;">
+  <a href="https://leetcode.com/u/Areen_2503/" target="_blank" width="52" height="40">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="40" />
   </a>
 </div>
