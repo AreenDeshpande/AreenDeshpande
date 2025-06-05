@@ -27,11 +27,11 @@
 <h3 align="center">🌐 Connect with me</h3>
 
 <div align="center">
-  <a href="https://linkedin.com/in/areen deshpande" target="blank">
+  <a href="https://www.linkedin.com/in/areen-deshpande-3b1107291/" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/areen2503" target="blank">
+  <a href="https://www.instagram.com/areen2503/" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
@@ -39,7 +39,7 @@
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" width="40" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.leetcode.com/areen_2503" target="blank">
+  <a href="https://leetcode.com/u/Areen_2503/" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="40" />
   </a>
 </div>
