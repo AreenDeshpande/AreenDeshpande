@@ -11,9 +11,15 @@
 
 ---
 
-- 🌱 I’m currently learning **Agentic AI**  
-- 📫 Reach me at **areendeshpande@gmail.com**  
-- 📄 [Know about my experiences](https://drive.google.com/file/d/1UGqnuIUyZiLe5s8-5gW-VeofNJq5ag8F/view?usp=drive_link)
+### 🚀 About Me
+
+- 🌱 Currently exploring **Agentic AI**, focusing on how intelligent agents can learn and collaborate autonomously.  
+- 🧠 Enthusiastic about **Data Structures & Algorithms (DSA)** — I enjoy solving complex problems and participating in coding contests to sharpen my logic and efficiency.  
+- 💻 Passionate about building smart, scalable systems by blending **AI/ML** with **full-stack development**.  
+- ✍️ I love writing clean, maintainable code and contributing to open-source projects.  
+- 📫 Reach out to me at **areendeshpande@gmail.com** — I'm always open to new ideas, collaborations, or tech discussions.  
+- 📄 Want to know more? [**Check out my resume**](https://drive.google.com/file/d/1UGqnuIUyZiLe5s8-5gW-VeofNJq5ag8F/view?usp=drive_link) to learn about my experiences and projects.
+
 
 ---
 
