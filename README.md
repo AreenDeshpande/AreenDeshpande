@@ -14,7 +14,7 @@
 ---
 <h3 align="center">🚀 About Me</h3>
 
-- 🌱 Currently exploring **Agentic AI**, focusing on how intelligent agents can learn and collaborate autonomously.  
+- 🌱 Currently exploring **Agentic AI and SpringBoot Framework**, focusing on how intelligent agents can learn and collaborate autonomously.  
 - 🧠 Enthusiastic about **Data Structures & Algorithms (DSA)** — I enjoy solving complex problems and participating in coding contests to sharpen my logic and efficiency.  
 - 💻 Passionate about building smart, scalable systems by blending **AI/ML** with **full-stack development**.  
 - ✍️ I love writing clean, maintainable code and contributing to open-source projects.  
