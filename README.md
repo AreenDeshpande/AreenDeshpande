@@ -7,7 +7,7 @@
 <p align="center">
  
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=areendeshpande&theme=darkhub&no-bg=true&column=6&margin-w=15&margin-h=15&rank=S,SS,SSS,A,AA,AAA,B,BB,BBB,C,CC,CCC" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=areendeshpande&theme=darkhub&column=6&margin-w=15&margin-h=15&rank=S,SS,SSS,A,AA,AAA,B,BB,BBB,C,CC,CCC" alt="Trophies" />
   </a>
 </p>
 
