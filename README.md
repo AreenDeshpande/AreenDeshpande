@@ -71,12 +71,19 @@
 
 <h3 align="center">📊 GitHub Stats</h3>
 
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=areendeshpande&show_icons=true&theme=matrix&no-bg=true&card_width=400" alt="GitHub Stats" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=areendeshpande&layout=compact&theme=transparent&no-bg=true&card_width=400" alt="Top Languages" height="200"/>
- <img src="https://github-readme-stats.vercel.app/api?username=areendeshpande&show_icons=true&theme=transparent" alt="Top Languages" height="200"/>
- 
+<div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
+
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=areendeshpande&show_icons=true&theme=transparent&card_width=500" alt="GitHub Stats" width="500" height="200" />
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=areendeshpande&layout=compact&theme=transparent&card_width=500" alt="Top Languages" width="500" height="200" />
+
+  <!-- (Optional) Duplicate or Alternate Stats (can be removed if not needed) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=areendeshpande&show_icons=true&theme=transparent&card_width=500" alt="Duplicate GitHub Stats" width="500" height="200" />
+
 </div>
+
 
 
 
