@@ -71,13 +71,11 @@
 
 <h3 align="center">📊 GitHub Stats</h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=areendeshpande&show_icons=true&theme=radical&no-bg=true" alt="GitHub Stats"/>
-</p>
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=areendeshpande&show_icons=true&theme=radical&no-bg=true&card_width=400" alt="GitHub Stats" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=areendeshpande&layout=compact&theme=radical&no-bg=true&card_width=400" alt="Top Languages" height="200"/>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=areendeshpande&layout=compact&theme=radical&no-bg=true" alt="Top Languages"/>
-</p>
 
 
 
