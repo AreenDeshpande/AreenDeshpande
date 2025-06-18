@@ -79,8 +79,6 @@
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=areendeshpande&layout=compact&theme=transparent&card_width=500" alt="Top Languages" width="500" height="200" />
 
-  <!-- (Optional) Duplicate or Alternate Stats (can be removed if not needed) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=areendeshpande&show_icons=true&theme=transparent&card_width=500" alt="Duplicate GitHub Stats" width="500" height="200" />
 
 </div>
 
