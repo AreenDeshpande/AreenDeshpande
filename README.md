@@ -90,12 +90,7 @@
   />
 
   <!-- GitHub Streak -->
-  <img 
-    src="https://streak-stats.demolab.com?user=areendeshpande&theme=transparent" 
-    alt="GitHub Streak" 
-    width="500" 
-    height="200" 
-  />
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 </div>
 
