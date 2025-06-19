@@ -89,8 +89,7 @@
     height="200" 
   />
 
-  <!-- GitHub Streak -->
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+ 
 
 </div>
 
