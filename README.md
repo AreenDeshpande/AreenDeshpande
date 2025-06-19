@@ -75,7 +75,7 @@
 
   <!-- GitHub Stats -->
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=areendeshpande&show_icons=true&theme=transparent&card_width=500" 
+    src="https://github-readme-stats.vercel.app/api?username=areendeshpande&show_icons=true&theme=radical&card_width=500" 
     alt="GitHub Stats" 
     width="500" 
     height="200" 
@@ -83,7 +83,7 @@
 
   <!-- Top Languages -->
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=areendeshpande&layout=compact&theme=transparent&card_width=500" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=areendeshpande&layout=compact&theme=radical&card_width=500" 
     alt="Top Languages" 
     width="500" 
     height="200" 
