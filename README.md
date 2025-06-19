@@ -92,6 +92,12 @@
     width="500" 
     height="200" 
   />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=areendeshpande&theme=radical" 
+    alt="Top Languages" 
+    width="500" 
+    height="200" 
+  />
 
  
 
