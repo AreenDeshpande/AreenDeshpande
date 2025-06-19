@@ -74,13 +74,31 @@
 <div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
 
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=areendeshpande&show_icons=true&theme=transparent&card_width=500" alt="GitHub Stats" width="500" height="200" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=areendeshpande&show_icons=true&theme=transparent&card_width=500" 
+    alt="GitHub Stats" 
+    width="500" 
+    height="200" 
+  />
 
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=areendeshpande&layout=compact&theme=transparent&card_width=500" alt="Top Languages" width="500" height="200" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=areendeshpande&layout=compact&theme=transparent&card_width=500" 
+    alt="Top Languages" 
+    width="500" 
+    height="200" 
+  />
 
+  <!-- GitHub Streak -->
+  <img 
+    src="https://streak-stats.demolab.com?user=areendeshpande&theme=transparent" 
+    alt="GitHub Streak" 
+    width="500" 
+    height="200" 
+  />
 
 </div>
+
 
 
 
