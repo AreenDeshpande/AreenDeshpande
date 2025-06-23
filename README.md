@@ -89,10 +89,10 @@
     height="200" 
   />
   <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=areendeshpande&theme=radical&card_width=500" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=areendeshpande&layout=compact&theme=radical&card_width=500" 
     alt="Top Languages" 
-    width="800" 
-    height="400" 
+    width="500" 
+    height="200" 
   />
 
  
