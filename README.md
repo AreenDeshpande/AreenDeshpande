@@ -68,14 +68,16 @@
 </div>
 
 ---
+<p align="center"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Satyam3002&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true" width="400"></p>
 
+<p align="center" href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Satyam3002&theme=chartreuse-dark" alt="GitHub Streak" /></p>
 <h3 align="center">📊 GitHub Stats</h3>
 
 <div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
 
   <!-- GitHub Stats -->
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=areendeshpande&show_icons=true&theme=radical&card_width=500" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=areendeshpande&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true" 
     alt="GitHub Stats" 
     width="500" 
     height="200" 
@@ -83,7 +85,7 @@
 
   <!-- Top Languages -->
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=areendeshpande&layout=compact&theme=radical&card_width=500" 
+    src="https://streak-stats.demolab.com?user=areendeshpande&theme=chartreuse-dark" 
     alt="Top Languages" 
     width="500" 
     height="200" 
