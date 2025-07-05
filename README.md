@@ -88,6 +88,12 @@
     width="500" 
     height="200" 
   />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=areendeshpande&layout=pie" 
+    alt="Top Languages" 
+    width="500" 
+    height="200" 
+  />
  
 
  
