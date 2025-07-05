@@ -7,9 +7,44 @@
 <p align="center">
  
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=areendeshpande&theme=chartreuse-dark&column=6&margin-w=15&margin-h=15&rank=S,SS,SSS,A,AA,AAA,B,BB,BBB,C,CC,CCC" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=areendeshpande&theme=matrix&column=6&margin-w=15&margin-h=15&rank=S,SS,SSS,A,AA,AAA,B,BB,BBB,C,CC,CCC" alt="Trophies" />
   </a>
 </p>
+
+---
+
+<h3 align="center">📊 GitHub Stats</h3>
+
+<div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
+
+  <!-- GitHub Stats -->
+  <img 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=areendeshpande&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true" 
+    alt="GitHub Stats" 
+    width="500" 
+    height="200" 
+  />
+
+  <!-- Top Languages -->
+  <img 
+    src="https://streak-stats.demolab.com?user=areendeshpande&theme=chartreuse-dark" 
+    alt="Top Languages" 
+    width="500" 
+    height="200" 
+  />
+
+  <!-- Top Languages Distribution-->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=areendeshpande&layout=donut&theme=chartreuse-dark" 
+    alt="Top Languages" 
+    width="500" 
+    height="200" 
+  />
+ 
+
+ 
+
+</div>
 
 ---
 <h3 align="center">🚀 About Me</h3>
@@ -66,47 +101,6 @@
   <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" width="40" alt="Selenium"/>
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" alt="TensorFlow"/>
 </div>
-
----
-
-<h3 align="center">📊 GitHub Stats</h3>
-
-<div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
-
-  <!-- GitHub Stats -->
-  <img 
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=areendeshpande&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true" 
-    alt="GitHub Stats" 
-    width="500" 
-    height="200" 
-  />
-
-  <!-- Top Languages -->
-  <img 
-    src="https://streak-stats.demolab.com?user=areendeshpande&theme=chartreuse-dark" 
-    alt="Top Languages" 
-    width="500" 
-    height="200" 
-  />
-
-  <!-- Top Languages Distribution-->
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=areendeshpande&layout=pie&theme=chartreuse-dark" 
-    alt="Top Languages" 
-    width="500" 
-    height="200" 
-  />
- 
-
- 
-
-</div>
-
-
-
-
-
-
 
 ---
 
