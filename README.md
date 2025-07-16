@@ -37,12 +37,12 @@
   />
 
   <!-- Top Languages -->
-  <img 
+  <!-- <img 
     src="https://streak-stats.demolab.com?user=areendeshpande&theme=chartreuse-dark" 
     alt="Top Languages" 
     width="500" 
     height="200" 
-  />
+  /> -->
 
   <!-- Top Languages Distribution-->
   <img 
