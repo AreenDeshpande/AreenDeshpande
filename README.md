@@ -8,16 +8,7 @@
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" width="600" />
 </div>
 
-## <div align="center">🌟 **Welcome to My Digital Universe** 🌟</div>
 
-<div align="center">
-  
-[![Profile Views](https://komarev.com/ghpvc/?username=areendeshpande&style=for-the-badge&color=brightgreen)](https://github.com/areendeshpande)
-[![GitHub followers](https://img.shields.io/github/followers/areendeshpande?style=for-the-badge&color=blue)](https://github.com/areendeshpande)
-[![GitHub stars](https://img.shields.io/github/stars/areendeshpande?style=for-the-badge&color=yellow)](https://github.com/areendeshpande)
-[![Years Badge](https://badges.pufler.dev/years/areendeshpande?style=for-the-badge&color=red)](https://github.com/areendeshpande)
-
-</div>
 
 ---
 
