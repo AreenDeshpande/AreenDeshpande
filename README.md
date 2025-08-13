@@ -62,7 +62,7 @@ print(f"Current mission: {me.current_status}")
 ## <div align="center">🏆 **GitHub Achievements & Trophies** 🏆</div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=areendeshpande&rank=SSS,SS,S,AAA,AA,A,B,C &theme=matrix&no-frame=true&column=7&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=areendeshpande&rank=SSS,SS,S,AAA,AA,A,B,C&theme=matrix&no-frame=true&column=7&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies" />
 </div>
 
 ---
