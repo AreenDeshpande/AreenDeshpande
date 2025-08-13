@@ -179,13 +179,6 @@ print(f"Current mission: {me.current_status}")
   </table>
 </div>
 
----
-
-## <div align="center">📈 **Coding Activity** 📈</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=areendeshpande&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" alt="Coding Activity" />
-</div>
 
 ---
 
@@ -231,13 +224,6 @@ print(f"Current mission: {me.current_status}")
 
 </div>
 
----
-
-## <div align="center">🎵 **Currently Coding To** 🎵</div>
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31vwvjv4b6cg6shsxp3g2bpvhmke&count=3&unique=true&width=600" alt="Spotify recently played" />
-</div>
 
 ---
 
