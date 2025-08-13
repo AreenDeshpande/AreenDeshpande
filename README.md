@@ -153,31 +153,6 @@ print(f"Current mission: {me.current_status}")
 
 </div>
 
----
-
-## <div align="center">🎯 **Current Focus Areas** 🎯</div>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"/>
-        <br><strong>🤖 Agentic AI</strong>
-        <br><sub>Building autonomous intelligent agents</sub>
-      </td>
-      <td align="center" width="33%">
-        <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100"/>
-        <br><strong>💻 Full Stack Dev</strong>
-        <br><sub>Creating scalable web applications</sub>
-      </td>
-      <td align="center" width="33%">
-        <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100"/>
-        <br><strong>🧠 DSA Mastery</strong>
-        <br><sub>Sharpening problem-solving skills</sub>
-      </td>
-    </tr>
-  </table>
-</div>
 
 
 ---
@@ -209,11 +184,6 @@ print(f"Current mission: {me.current_status}")
 
 ## <div align="center">💡 **Fun Facts** 💡</div>
 
-<div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=react&hideBorder&bgColor=0D1117" alt="Programming Joke" />
-</div>
-
-<div align="center">
   
 - 🔭 I'm currently working on **Autonomous AI Agents**
 - 🌱 Learning **Advanced Machine Learning & System Design**
