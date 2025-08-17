@@ -163,7 +163,7 @@ print(f"Current mission: {me.current_status}")
   <a href="mailto:areendeshpande@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://drive.google.com/file/d/1UGqnuIUyZiLe5s8-5gW-VeofNJq5ag8F/view?usp=drive_link" target="_blank">
+  <a href="https://drive.google.com/file/d/1kgs6La9tOecakpMNH8lP_5fUzbSHYIvG/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume"/>
   </a>
 </div>
