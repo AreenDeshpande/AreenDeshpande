@@ -9,48 +9,9 @@
 </div>
 
 
-
 ---
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> **About Me**
-
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
-```python
-class AreenDeshpande:
-    def __init__(self):
-        self.name = "Areen Mangesh Deshpande"
-        self.role = "AI/ML Enthusiast & Full Stack Developer"
-        self.location = "India 🇮🇳"
-        self.languages = ["Python", "JavaScript", "C++", "Java"]
-        self.focus_areas = ["Agentic AI", "Machine Learning", "Full Stack Development"]
-        self.current_status = "Building the future, one algorithm at a time"
-        
-    def get_daily_routine(self):
-        return [
-            "☕ Coffee++",
-            "🧠 Solve DSA problems",
-            "🤖 Train AI models", 
-            "💻 Build cool projects",
-            "🌱 Learn something new",
-            "🔄 Repeat"
-        ]
-        
-    def get_current_focus(self):
-        return {
-            "learning": "Agentic AI & Autonomous Systems",
-            "building": "Smart, Scalable Solutions",
-            "contributing": "Open Source Projects",
-            "improving": "Problem-solving & Algorithm Design"
-        }
-
-me = AreenDeshpande()
-print(f"Current mission: {me.current_status}")
-```
-
----
-
-## <div align="center">🏆 **GitHub Achievements & Trophies** 🏆</div>
+## <div align="center">🏆 **GitHub Trophies** 🏆</div>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=areendeshpande&rank=SSS,SS,S,AAA,AA,A,B,C&theme=matrix&column=6&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies" />
