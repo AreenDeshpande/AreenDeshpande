@@ -1,24 +1,20 @@
 # <div align="center">![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=40&pause=1000&color=00FF41&center=true&vCenter=true&width=800&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Areen+Mangesh+Deshpande;AI%2FML+Enthusiast+%26+Full+Stack+Developer;Building+the+Future+with+Code+%F0%9F%9A%80)</div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="Divider Line" onerror="this.style.display='none'" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 </div>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7">
-    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" width="600" alt="Animated Developer GIF" onerror="this.style.display='none'" />
-  </picture>
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" width="600" />
 </div>
+
 
 ---
 
 ## <div align="center">🏆 **GitHub Trophies** 🏆</div>
 
 <div align="center">
-  <picture>
-    <img src="https://github-profile-trophy.vercel.app/?username=areendeshpande&rank=SSS,SS,S,AAA,AA,A,B,C&theme=matrix&column=6&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies" onerror="this.parentElement.innerHTML='<p><em>🏆 GitHub trophies loading...</em></p>'" />
-  </picture>
+  <img src="https://github-profile-trophy.vercel.app/?username=areendeshpande&rank=SSS,SS,S,AAA,AA,A,B,C&theme=matrix&column=6&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -29,31 +25,23 @@
   <table>
     <tr>
       <td>
-        <picture>
-          <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=areendeshpande&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" alt="GitHub Stats" onerror="this.parentElement.innerHTML='<div style=\'padding:20px;text-align:center;\'><em>📊 Stats loading...</em></div>'" />
-        </picture>
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=areendeshpande&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
       </td>
       <td>
-        <picture>
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=areendeshpande&theme=chartreuse-dark&hide_border=true&background=0D1117" alt="GitHub Streak" onerror="this.parentElement.innerHTML='<div style=\'padding:20px;text-align:center;\'><em>🔥 Streak loading...</em></div>'" />
-        </picture>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=areendeshpande&theme=chartreuse-dark&hide_border=true&background=0D1117" alt="GitHub Streak" />
       </td>
     </tr>
   </table>
 </div>
 
 <div align="center">
-  <picture>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=areendeshpande&layout=donut&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" alt="Top Languages" onerror="this.parentElement.innerHTML='<p><em>💻 Top languages loading...</em></p>'" />
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=areendeshpande&layout=donut&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </div>
 
 ### <div align="center">⚡ **GitHub Activity Graph** ⚡</div>
 
 <div align="center">
-  <picture>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=areendeshpande&theme=react-dark&bg_color=0D1117&hide_border=true&line=00FF41&point=00FF41" alt="GitHub Activity Graph" onerror="this.parentElement.innerHTML='<p><em>📈 Activity graph loading...</em></p>'" />
-  </picture>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=areendeshpande&theme=react-dark&bg_color=0D1117&hide_border=true&line=00FF41&point=00FF41" />
 </div>
 
 ---
@@ -114,6 +102,8 @@
 
 </div>
 
+
+
 ---
 
 ## <div align="center">🌐 **Connect With Me** 🌐</div>
@@ -143,6 +133,7 @@
 
 ## <div align="center">💡 **Fun Facts** 💡</div>
 
+  
 - 🔭 I'm currently working on **Autonomous AI Agents**
 - 🌱 Learning **Advanced Machine Learning & System Design**
 - 👯 Looking to collaborate on **Open Source AI/ML Projects**
@@ -150,10 +141,13 @@
 - ⚡ Fun fact: **I can debug code faster with coffee! ☕**
 - 🎮 When not coding: **Chess, Tech podcasts, or exploring new frameworks**
 
+</div>
+
+
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%" alt="Footer Wave" onerror="this.style.display='none'" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%" />
 </div>
 
 <div align="center">
@@ -165,25 +159,5 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="Bottom Divider" onerror="this.style.display='none'" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 </div>
-
-<!-- Backup content for critical sections (will only show if main content fails) -->
-<noscript>
-## 📊 GitHub Stats (Fallback)
-**GitHub Profile:** [@areendeshpande](https://github.com/areendeshpande)
-
-## 🛠️ Technical Skills
-**Languages:** C++, Python, JavaScript, Java, TypeScript  
-**Frontend:** React, HTML5, CSS3, Tailwind CSS  
-**Backend:** Node.js, Express.js  
-**Databases:** MongoDB, MySQL  
-**AI/ML:** TensorFlow, Scikit-learn, Pandas, NumPy  
-**Tools:** Git, Docker, AWS, VS Code  
-
-## 🌐 Connect
-- **LinkedIn:** [Areen Deshpande](https://www.linkedin.com/in/areen-deshpande-3b1107291/)
-- **Twitter:** [@AreenDeshpande](https://x.com/AreenDeshpande)
-- **Email:** areendeshpande@gmail.com
-- **LeetCode:** [Areen_2503](https://leetcode.com/u/Areen_2503/)
-</noscript>
